@@ -1,8 +1,0 @@
-timestamp,experiment,model,total_samples,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,train_ratio,train_pct,test_ratio,test_pct,param_max_len,param_epochs,param_LR,param_BATCH_SIZE,param_SEED,info_dataset
-2025-12-16 11:41:49,indobert_base_test_20_v1,IndoBERT,2576,0.84,0.61,0.59,0.59,0.83,0.84,0.83,0.7,70.0,0.3,30.0,512,7,2e-05,16,42,full
-2025-12-16 11:50:37,indobert_base_test_30_v1,IndoBERT,2576,0.83,0.6,0.59,0.58,0.82,0.83,0.82,0.7,70.0,0.3,30.0,512,7,2e-05,16,42,full
-2025-12-16 13:07:39,indobert_base_test_30_v1,IndoBERT,2576,0.82,0.6,0.58,0.59,0.81,0.82,0.81,0.8,80.0,0.2,20.0,512,7,2e-05,16,42,full
-2025-12-16 13:07:54,indobert_base_test_20_k-fold,IndoBERT,2576,0.82,0.6,0.58,0.59,0.81,0.82,0.81,0.8,80.0,0.2,20.0,512,7,2e-05,16,42,full
-2025-12-16 13:17:12,indobert_base_test_10_v1,IndoBERT,2576,0.83,0.7,0.64,0.65,0.83,0.83,0.83,0.8,80.0,0.2,20.0,512,7,2e-05,16,42,full
-2025-12-16 13:44:30,indobert_base_test_10_v1,IndoBERT,2576,0.83,0.7,0.64,0.65,0.83,0.83,0.83,0.8,80.0,0.2,20.0,512,7,2e-05,16,42,full
-2025-12-16 13:57:00,indobert_base_test_10_v1,IndoBERT,2576,0.84,0.61,0.59,0.59,0.83,0.84,0.83,0.8,80.0,0.2,20.0,512,7,2e-05,16,42,full
